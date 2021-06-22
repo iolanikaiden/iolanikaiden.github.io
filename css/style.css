@@ -25,17 +25,17 @@ img {
     display: inline-block;
     padding: 1em 2em;
     text-decoration: none;
-    background-color: rgba(0, 102, 204, .8);
+    background-color: rgba(241, 13, 13, 0.808);
     color: white;
     border-radius: 5px;
 }
 .button:hover {
-    background-color: rgba(0, 102, 204, 1);
+    background-color: rgb(207, 3, 3);
     color: white;
 }
 .button.dark {
-    color: rgba(0, 102, 204, 1);
-    background-color: rgba(255, 255, 255,.8);
+    color: rgb(209, 0, 0);
+    background-color: rgba(252, 252, 252, 0.8);
 }
 .button.dark:hover {
     background-color: rgba(255, 255, 255,1);
@@ -44,7 +44,7 @@ img {
 /* SITE STRUCTURE */
 
 header {
-    background-color: rgba(0, 102, 204, 1);
+    background-color: rgb(0, 0, 0);
     color: rgba(0, 0, 0, 0.8); 
     padding: 1em;
     display: grid;
@@ -88,9 +88,9 @@ main {
 
 /* HERO SECTION */
 .hero {
-    background-color: rgba(0, 102, 204, 1);
+    background-color: rgb(212, 5, 5);
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 6em 1em;
 }
 
