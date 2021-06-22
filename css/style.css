@@ -90,7 +90,7 @@ main {
 .hero {
     background-color: rgb(212, 5, 5);
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     padding: 6em 1em;
 }
 
@@ -99,6 +99,7 @@ main {
     line-height: 1;
     text-transform: uppercase;
     margin: 0 auto;
+    color: rgb(0, 0, 0);
 }
 
 .hero p {
